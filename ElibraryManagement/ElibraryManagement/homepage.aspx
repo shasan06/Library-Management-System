@@ -13,6 +13,9 @@
                     <center>
                     <h2>Our Features</h2>
                     <p><b>Our 3 Primary Features -</b></p>
+                    <br>
+                    <br>
+                            
                     <center>
                 </div>
             </div>
